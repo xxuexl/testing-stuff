@@ -42,3 +42,15 @@ let txt = typeof true;
 console.log(typeof true);
 console.log("My test");
 console.log("3" === 3);
+
+console.log("Task 1.1:");
+
+//1.1
+const sum = (a = 10, b = 5) => a + b;
+console.log(sum());
+
+//1.2
+console.log(sum(1));
+
+//1.3
+console.log(sum(4, 6));
