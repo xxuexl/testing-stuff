@@ -1,20 +1,18 @@
-//About const in arrays and objects
+//ETIQUETAS DE IMÁGENES
 
-//Objects are keys and values pairs.
-const dictionary = {
-  name: "joe",
-  likes: "cats",
-};
-dictionary.name = "chu";
-console.log(dictionary);
-
-//Arrays are ordered lists.
-const people = [];
-
-people[0] = "loki";
-people[1] = "mochi";
-console.log(people[0]);
-
-const colours = ["blue", "green", "red"];
-colours[1] = "pink";
-console.log(colours[1]);
+<html>
+  <picture>
+    <source></source>
+    <img></img>
+  </picture>
+  <map>Insertar un mapa de imagen en nuestra pagina web</map>
+  ETIQUETAS DE CONTENIDO EXTERNO (Aplicacion externa)
+  <iframe></iframe>
+  <object></object>
+  <param></param>
+  ETIQUETAS DE VÍDEO ()
+  <video src autoplay controls width="600"></video>
+  <audio autoplay loop controls>
+    <source></source>
+  </audio>
+</html>;
