@@ -1,3 +1,6 @@
+let apellido = "martin";
+apellido = "susan";
+
 //About const in arrays and objects
 
 //Objects are keys and values pairs.
