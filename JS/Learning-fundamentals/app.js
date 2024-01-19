@@ -1,11 +1,14 @@
-//todo--------------------OBJECT- ARRAY------------------------------------------------------------
+
+
+
+//todo-------------CONST-------OBJECT- ARRAY------------------------------------------------------------
 
 const data = []; //empty inicialization
 data[0] = "car";
 data.push("Tesla"); //pushing this at the end of data(car)
 console.log(data);
 
-//todo--------------------OBJECT-OBJECT------------------------------------------------------------
+//todo-------------CONST------OBJECT-OBJECT------------------------------------------------------------
 
 const pokemon = {
   name: "Pikachu",
@@ -26,4 +29,4 @@ let student2 = {
 if (student1.profile !== student2.profile) {
   console.log("they are not the same");
 }
-//  "!==""
+//  "!==" Opposite statement. 
