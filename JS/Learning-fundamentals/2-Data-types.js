@@ -38,3 +38,15 @@ startIndex to endIndex(endIndex is exclusive) */
 let World = "Hello world";
 let onlyWorld = World.slice(6, 11);
 console.log(onlyWorld); //returns world
+
+const album = "Master of Puppets";
+console.log(album.slice(1, 5));
+
+//----------------------------------------------------------------------
+
+const frase = "Me voy a comer una hamburgesa";
+console.log(frase.split(" ", 4));
+console.log(frase.split(" ", 3));
+
+const quote = "   Luke, yo soy tu padre     ";
+console.log(quote.trim());
