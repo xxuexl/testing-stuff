@@ -100,3 +100,11 @@ const evaluarEdad = (edad) => {
       return "no tienes 18 años";
   }
 };
+
+if (name === "pedro") {
+  console.log("Me llamo Pedro");
+} else {
+  console.log("pero usted quien es?");
+}
+
+participant = "pedro";
