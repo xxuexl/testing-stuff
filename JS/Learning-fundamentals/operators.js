@@ -12,3 +12,5 @@ Se utilizan para evaluar expresiones lógicas y devolver un valor booleano
 console.log(true && false);
 console.log(true || false);
 console.log(!false);
+
+

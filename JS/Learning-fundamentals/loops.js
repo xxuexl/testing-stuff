@@ -1,6 +1,6 @@
 /*-----------LOOPS/BUCLES---------------------------------------
 Sirven para ejecutar una acción o conjunto de acciones varias veces,
-según una condición on una serie de ellas.
+según una condición o una serie de ellas.
 TIPOS: 
 
 
