@@ -1,5 +1,5 @@
 // Creating our fist custom component
-const names = ['Mochi', 'Joe']
+const names = ['Mochi', 'Joe', 'Loki']
 /* Math.random -> Js function that generates a random number. 0.5(50% chance)
 - ? -> Ternary operator. We put the options(0 if true >0.5 or 1 if false). 
 ":" It separates the two options from the ternary expression */
@@ -8,8 +8,8 @@ const Post = () => {
     //It will choose randomly a name (50% chance)
     return (
         <div>
-            <p>Hey there, {chosenName}!</p>
-            <p>I´m doing my best!</p>
+            <p>Hello, {chosenName}!</p>
+            <p>Welcome to this little world!</p>
         </div>
     );
 }
